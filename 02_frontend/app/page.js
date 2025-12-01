@@ -183,7 +183,7 @@ export default function Page() {
                 value={form.coverimage}
                 onChange={handleChange}
                 className="input"
-                placeholder="https://example.com/poster.jpg"
+                placeholder="https://example.com/poster.jpg(from themoviedb.org)"
               />
             </label>
           </div>
