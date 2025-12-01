@@ -1,6 +1,3 @@
-CREATE DATABASE IF NOT EXISTS last_dit312;
-USE last_dit312;
-
 CREATE TABLE `movie` (
   `id` int(11) NOT NULL,
   `name` varchar(191) COLLATE utf8mb4_unicode_ci NOT NULL,
