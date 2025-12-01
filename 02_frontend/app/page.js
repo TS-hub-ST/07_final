@@ -135,7 +135,7 @@ export default function Page() {
     <main className="container">
       {/* Header: Movie Review App name */}
       <header className="header">
-        <h1 className="title">Name and ID</h1>
+        <h1 className="title">Thant Sin Linn 6610301</h1>
         <h2 className="title">Movie Review App</h2>
         <p className="subtitle">
           Add your review and explore movies in one simple table.
